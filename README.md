@@ -14,8 +14,6 @@ leblancfg:
   interests:
     - sci-fi
     - crossfit
-    - conversation
-    - cycling
     - creating music
     - everything food-related
   website: https://leblancfg.com
