@@ -10,7 +10,7 @@ leblancfg:
     - Python ✭✭✭✭
     - SQL    ✭✭✭✭
     - R      ✭✭✭
-  overuses: logistic-regression
+  overuses: logistic_regression
   interests:
     - sci-fi
     - crossfit
