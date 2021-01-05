@@ -7,9 +7,9 @@ leblancfg:
   currently_doing: People Analytics 👪
   background: Geoscience
   languages:
-    - Python ✭✭✭✭
-    - SQL    ✭✭✭✭
-    - R      ✭✭✭
+    - Python
+    - SQL
+    - R
   overuses: logistic_regression
   interests:
     - sci-fi
