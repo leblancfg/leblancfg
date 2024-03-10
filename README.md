@@ -2,9 +2,8 @@
 
 ```yaml
 leblancfg:
-  position: Data Scientist
+  position: Senior Data Engineer
   company: Shopify
-  currently_doing: People Analytics
   background: Geoscience
   website: https://leblancfg.com
 ```
